@@ -1,8 +1,14 @@
-# Miséria
-___
-By Aline Alencar
-
-Ansiedade, desorganização, aperto financeiro, aperreio, dor no corpo, dor na alma, vícios, descontrole, tristeza. Vivemos na miséria! E o pior, muitas e muitas vezes, vivemos na miséria porque 'queremos'.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<div>
+		<h1>Miséria</h1>
+	</div>
+  Ansiedade, desorganização, aperto financeiro, aperreio, dor no corpo, dor na alma, vícios, descontrole, tristeza. Vivemos na miséria! E o pior, muitas e muitas vezes, vivemos na miséria porque 'queremos'.
 
 Não há vida e não há paz fora de Deus! Não estou dizendo fora da religião X ou Y, estou dizendo fora de Deus! Não há vida e não há paz fora de Deus. 
 
@@ -17,3 +23,7 @@ Mas não se engane. Se você não pára para cuidar do seu espírito, para se al
 O Senhor está à disposição. Nós só precisamos querer buscá-lo e você se engana se acha que Ele só se encontra dentro das construções que chamamos de igreja. Não, mas não mesmo. Busque-O onde você estiver.
 
 _“Respondeu o Senhor: “Marta! Marta! Você está preocupada e inquieta com muitas coisas; todavia apenas uma é necessária. Maria escolheu a boa parte, e esta não lhe será tirada”._ ‭Lucas‬ ‭10:41-42‬ ‭NVI‬‬
+
+  
+</body>
+</html>
